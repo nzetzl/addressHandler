@@ -1,0 +1,239 @@
+Address	Kids	Phone
+		
+"Bain, Ben & Clare"	"Ben, David, Elizabeth"	
+2106 N. Gradison Ct.		
+"Indianapolis, IN 46214"		
+		
+"Bentley, Mrs John (Linda)"	"Lisa, Buddy, Chris, Debbie"	(813) 967-6285
+1605 Crump Road		
+"Winter Haven, FL 33881"		
+		
+"Beyer, Stephen & Karen"		
+2929 Meeting House Lane		
+"Indianapolis, IN 46222"		
+		
+"Blandford, Kent & Tina"	"Adam, Nicholas, Amanda, Ryan"	
+2128 Fullerton Dr.		
+"Indianapolis, IN 46214"		
+		
+"Braganza, Charles & Rebecca"	"Brandon, Bradley"	
+1025 Ridgepointe Dr. 		
+"Indianapolis, IN 46234"		
+		
+"Brown, Carolyn & Norm Crandall"		
+2975 Judylyn Drive		
+"Decatur, GA  30033"		
+		
+"Brown, Mike & Carol"	"Courtney, David"	271-7219
+1781 Red Phister Drive		
+"Avon, IN 46123"		
+		
+"Brown, Ray Edward "	Christopher	329-1560
+4614 Hollister Drive		
+"Indianapolis, IN 46222"		
+		
+"Brown, Ellen"		
+45 West 42nd Street		
+"Indianapolis, IN 46208"		
+		
+"Case, Bill & Renda"	"Wes, Tim, LeeAnn"	
+1416 East Loretta Drive		
+"Indianapolis, IN   46227"		
+		
+"Clemons, Larry & Barb"		297-2120
+15254 Kampen Circle		
+"Carmel, IN 46033"		
+		
+"Clemons, Kevin & Macy"	"Henry, Eliza"	
+926 Bittersweet Dr.		
+"Northbrook, IL 60062"		
+		
+"Compton, Debra"		
+1821  Maradona Drive		
+"Indianapolis, IN 46214"		
+		
+"Dannenbrink, Kathy "	Amber Ferrari	
+5015 W. 12th Street		
+"Indianapolis, IN 46224"		
+		
+"Davis, Tina"	"Justin, Matthew"	299-6901
+736 Thornwood Dr.	 	
+"Avon, IN 46123"		
+		
+"Dowden, Steve & Marcy"	"Sarah, Greg, Chris"	
+5230 Mosswood Road		
+"Indianapolis, IN 46254"		
+		
+"Elder, Liz & Jeff"	"Michael, Lindsey, Jordan"	
+11737 Laurelview Drive		
+"Cincinnati, OH  45249"		
+		
+"Gading, Steve & Lisa"	"Josh, Tony, Amanda"	
+565 Yorktown Lane		
+"Indianapolis, IN  46234"		
+		
+"Gray, Roger & Dawn"	"Cory, Chelsey, Cody"	
+3649 Allison Ave.		
+"Indianapolis, IN 46224"		
+		
+"Gilmore, Jack & Jane (Watson)"		
+5716 East 10th Street		
+"Indianapolis, IN 46219"		
+		
+"Hanley, Dennis & Lisa"	"Martin, Brian, Michael"	
+3165 Columbine Ct.		
+"Indianapolis, IN 46224"		
+		
+"Hawkins, Jim & Pat"		
+19508 Silver Oak Dr.		
+" Ft. Myers, FL 33967"		
+		
+Sr. Timothy Kavanaugh		
+Sisters of St. Francis		
+P.O. Box 100		
+"Oldenburg, IN 47036"		
+		
+"Keith, Todd & Teresa"	"Johnathon, Justin, Kaitlin"	
+6450 Columbine Dr. 		
+"Indianapolis, IN 46224"		
+		
+"Koors, Ron & Jan"	"Paige, Cassie"	
+6652 Wellspring Dr.		
+"Brownsburg, IN 46112"		
+		
+"Llewellyn, Bob & Lillian"		
+1755 Maradona Drive		
+"Indianapolis, IN 46214"		
+		
+"Locke, Ed & Lynn"	"Kristina, Kevin"	
+5318 Shadow Wood Ct.		
+"Indianapolis, IN  46254"		
+		
+"Macias, Bill & Susie"	"Ben, Jake, Jason"	
+9129 Log Run South Drive		
+"Indianapolis, IN  46234"		
+		
+"Marshalleck, Francis & Stephanie"	"Zoe, Eric, Maya"	
+7441 Shadow Wood Drive 		
+"Indianapolis, IN 46254"		
+		
+"Matthews, Charlie & Laura"	"Patrick, Emily, Timothy"	
+84 Cox Street		
+"Nashua, NH  03064"		
+		
+"McBride , Scott & Stacy"	"Alexis, Zach"	
+5337 Falcon Lane		
+"Indianapolis, IN  46224"		
+		
+"Paras, Mark & Lola"	Lauren & Morgan	
+7440 Holiday Drive East		
+"Indianapolis, IN 46260"		
+		
+"Perl, Tim & Sara"	Hudson	
+52401-1 Miami Ct		
+"Fort Hood, TX  76544"		
+		
+"Pottenger, Connie"		
+3612 Minger Road		
+"Indianapolis, IN 46222"		
+		
+"Proffitt, Mark & Mary"	"Lauren, Chrissy, Tommy"	
+7643 West 21st Street		
+"Indianapolis, IN 46214"		
+		
+"Ranck, Joe & Chris"	"Amanda, Carolyn, Helen"	
+7544 Rogers Drive		
+"Indianapolis, IN 46214"		
+		
+"Rancourt, Robert & Mary Ann"	"Elizabeth, Veronica, Regina, Claire"	843-9809
+14924 Sulky Way		
+"Carmel, IN 46032"		
+		
+"Scherer, Brian & Candee"	"Joel, Brianna, "	
+4614 Buena Vista Drive		
+"Indianapolis, IN  46228"		
+ 		
+"Schrank, Bob & Julie"	"Kelsey, Kyle"	
+12578 Broadmoor Ct. N.		
+"Fishers, IN 46037"		
+		
+"Schmucker, Randy & Connie"		
+6040 N Emerson Ave.		
+"Indianapolis, IN  46220"		
+		
+"Schumacher, Al & Kris"	"Grant, Luke, Allison"	
+4631 Eagles Watch Lane		
+"Indianapolis, IN  46254"		
+		
+"Shuey, Barb"		
+3059 River Bay Drive		
+"Indianapolis, IN 46240"		
+		
+"Smith, Angie"	Luke	
+120 West Walnut		
+"Zionsville, IN  46077"		
+		
+"Souter, Rex & Cathy"		297-4904
+5223 Glen Stewart Way		
+"Indianapolis, IN 46254"		
+		
+"Teague, Buck & Karen"		
+113 Longwood Dr.		
+"Clinton, MS 39056"		
+		
+"Thompson, Scott & Courtney"	Andrew	
+1803 O'Connor Ct.		
+"Avon, IN 46123"		
+		
+"Van Tyle, Wm Kent & Jeanne"	"Rachel, Emily"	283-6326
+502 Buckingham Dr.		
+"Indianapolis, IN 46208"		
+		
+"Villela, John & Jenny"	"Rose, Macy, Sophia"	
+222 South St		
+"Hingham, MA 02043"		
+		
+"Zetzl, Alfred & Ruth"		241-7114
+5330 Carlton Way		
+"Indianapolis, In 46224"		
+		
+"Zetzl, Dan"		495-4303
+1935 S. Plum Grove Rd. #199		
+"Palatine, IL  60067"		
+		
+"Zetzl, Jim & Heather"	"Anna, Sarah "	
+6520 Kinsbury Way		
+"Zionsville, IN 46077"		
+		
+"Zetzl, John, Jr & Amy"	"Kelsey, Madison"	(317) 489-5854
+30 Hartley Hills Drive		
+"Hagerstown, IN  47346"		
+		
+"Zetzl, John & Janet"		241-9837
+1331 Mineral Lake Ct.		
+"Brownsburg, IN 46112"		
+		
+"Zetzl, Larry & Lisa"	"Mark, Matthew, Laura, Nicholas"	271- 7991
+2291 McGregor Drive		
+"Avon, IN 46123"		
+		
+"Zetzl, Rev. Fr. Ralph, OFM"	Home	(217) 522-1053
+Villa Health Care Center	Center	(217) 744-9891
+607 North Maple 	Parish	(217) 523-3816
+"Effingham, IL 62401"	Beeper	(217) 788-0077
+		
+"Zetzl, Robert"	Brian	253-2345
+5847 Gloucester Circle		
+"Indianapolis, IN 46220"		
+		
+"Zetzl, Steven & Martha"	"Abby, Drew, Matthew"	
+1244 Bridgefield Drive		
+"Carmel, IN  46033"		
+		
+Emily & Martin Hanley		
+4311 Bayou Blvd  Apt  S-190		
+"Pensacola, FL  32503"		
+		
+"Banich, Harold & Penny and Family"	"Harold, Laura"	
+4712 W Vermont St		
+"Indianapolis, IN  46222"		
