@@ -1,4 +1,5 @@
 import java.sql.*;
+import javax.swing.*;
 
 public class addressHandler {
 	
@@ -18,7 +19,12 @@ public class addressHandler {
 	}
 
 	public static void main(String[] args) {
+		
 		String url = "";
-		Connection con = DriverManager.getConnection(url);
+		try {
+			Connection con = DriverManager.getConnection(url);
+		} catch (SQLException e) {
+				
+		}
 	}	
 }
